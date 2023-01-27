@@ -9,7 +9,7 @@ Different ways to plot timeseries.
 - Show the standard procedure of plotting figure.
 - Extract only of interest regions and do spatial average.
 - Plot timeseries with respect to the whole period.
-- Plot annual time series
+- Plot annual timeseries
 - Plot specific month(s) or season(s) timeseries.
 - Display two lines in one figure
 - Plot multiple axes within one figure
