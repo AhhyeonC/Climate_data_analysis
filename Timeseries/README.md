@@ -11,7 +11,7 @@ Different ways to plot timeseries.
 - Plot timeseries with respect to the whole period.
 - Plot annual timeseries
 - Plot specific month(s) or season(s) timeseries.
-- Display two lines in one figure
+- Display two lines together in one figure
 - Plot multiple axes within one figure
 
 **2_Filled_Timeseries(nino34)**  
