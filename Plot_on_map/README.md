@@ -6,7 +6,7 @@ https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels
 # Main contents 
 
 **1_filled_contour (Basemap)**  
-- Transform longitude from 0//~360 into -180//~180.  
+- Transform longitude from 0/~360 into -180/~180.  
 - Extract only of interest month(s) data.  
 - Extract only of interest regions and do spatial average.  
 - Plot with filled contour.  
