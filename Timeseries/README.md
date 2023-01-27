@@ -20,3 +20,4 @@ Different ways to plot timeseries.
 - Calculate anomalies.
 - Calculate ONI (The Oceanic Nino Index).
 - Plot line graph filling the area between two lines. (y1 = ONI, Y2 = X-axis) 
+- Add text inside of the figure
