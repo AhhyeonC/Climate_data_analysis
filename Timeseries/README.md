@@ -5,13 +5,13 @@ Different ways to plot timeseries.
 # Main contents 
 
 **1_Timeseries_basic**  
-- Show the easiest way to plot a figure.
-- Show the standard procedure of plotting figure.
+- Show the easiest way to plot figures.
+- Show the standard procedure of plotting figures.
 - Extract only of interest regions and do spatial average.
 - Plot timeseries with respect to the whole period.
 - Plot annual timeseries.
 - Plot specific month(s) or season(s) timeseries.
-- Display two lines together in one figure.
+- Display two line graphs together in one figure.
 - Plot multiple axes within one figure.
 
 **2_Filled_Timeseries(nino34)**  
