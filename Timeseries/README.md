@@ -19,5 +19,5 @@ Different ways to plot timeseries.
 - Calculate moving average (running mean) with the window of 3-month.
 - Calculate anomalies.
 - Calculate ONI (The Oceanic Nino Index).
-- Plot line graph filling the area between two lines. (y1 = ONI, Y2 = X-axis) 
+- Plot a line graph filling the area between two lines. (y1 = ONI, Y2 = X-axis) 
 - Add text inside of the figure
